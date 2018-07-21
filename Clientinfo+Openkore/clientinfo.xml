@@ -42,8 +42,8 @@
 			<admin>4527144</admin><admin>4531823</admin><admin>4695819</admin><admin>4695820</admin>
 			<admin>4695803</admin><admin>4695802</admin><admin>4695739</admin><admin>4695717</admin>
 		</yellow>
-		<agencyAddress>127.0.0.1</agencyAddress>
-		<agencyPort>6901</agencyPort>
+		<agencyAddress>128.241.92.162</agencyAddress>
+		<agencyPort>6950</agencyPort>
 	</connection>
 	<connection>
 		<display>Openkore:6901</display>
